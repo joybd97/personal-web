@@ -1,0 +1,165 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+
+h1{
+    font-family: 'Caveat';
+    font-size: 50px;
+    font-weight: 700px;
+}
+
+h3{
+    font-family: 'Poppins';
+    font-size: 35px;
+    font-weight: 500px;
+}
+p{
+    font-size: 20px;
+    font-family:'Poppins';
+}
+.name-highlight{
+    color:#EC4E8B;
+}
+.pic-mergin{
+    margin-top: 40px;
+}
+
+.nav{
+    text-align-last: right;
+    margin-right: 200px;
+}
+
+.half{
+    width: 40%;
+    float: left;
+    margin: 30px;
+    margin-left: 80px;
+   
+}
+.img2{
+    size: 200%;
+}
+
+.half img {
+    width: 50%;
+    margin: 70px 50px;
+}
+
+.top-banner{
+    background-repeat: no-repeat;
+    background-image:url(header-bg.png);
+    margin-top: 30px;
+}
+
+section{
+    height: 500px;
+}
+
+.link_button{
+    text-decoration: none;
+    background-color: #EC4E8B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+.biography{
+    background-repeat: no-repeat;
+    background-image:url(biography-bg.png);
+}
+
+
+
+.experience h2{
+
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.onethird{
+    width: 24%;
+    float: left;
+    margin-top: 6%;
+    margin-left: 7%;
+}
+.onethird img{
+    width: 100%;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #363958;
+
+}
+.inBox{
+    font-size: small;
+}
+.review {
+    height: 400px;
+    margin-top: 200px;
+}
+.review h2{
+   
+    text-align: center;
+    font-size: 40px;
+}
+
+.review h5
+{
+    text-align: center;
+    font-size: 20px;
+}
+.review h6{
+    color: grey;
+    text-align: center;
+}
+
+.review p{
+    text-align: center;
+    font-size: 15px;
+}
+.inquery{
+    text-align: center;
+}
+
+.contact{
+    height: 300px;
+}
+.cont{
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 900px;
+    background-size: 500px;
+    margin-left: 500px;
+   
+
+}
+.chat-button{
+    float: left;
+    margin: -58px 350px;
+    position: relative;
+}
+.inquery{
+    margin-left: -650px;
+    padding-top: 50px;
+    color: white;
+}
+.inquery a{
+    position: relative;
+}
+.right{
+    text-align: center;
+}
+.connected {
+    text-align: center;
+}
+.icon img{
+    height: 5%;
+    width: 5%;
+}
